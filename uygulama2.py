@@ -1,7 +1,7 @@
 import pandas as pd
 from transformers import pipeline
 
-# Veri setini yükleyin
+
 url = 'https://raw.githubusercontent.com/anilkus/TRsemanticAnalysisTKNFST/main/e-ticaret_urun_yorumlari.csv'
 df = pd.read_csv(url, sep=';')
 df.columns = ['Metin', 'Durum']
