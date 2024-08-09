@@ -5,7 +5,6 @@ import sumy
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lex_rank import LexRankSummarizer
-
 import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 from string import punctuation
