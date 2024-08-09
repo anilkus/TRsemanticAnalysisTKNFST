@@ -1,4 +1,4 @@
-# TRsemanticAnalysisTKNFST
+# ToRos Dil İşleme - Teknofest 2024
 ![turkcedil2_KQLmW](https://github.com/user-attachments/assets/24b4fecf-0e68-4822-9a1b-33c9945df961)
 
 Bu projede hazır bir LLM destekli sisteme yaklaşık 15 bin yorum içeren etiketli veri seti ile eğitilmiş bir uygulama tasarlanmıştır. Uygulama yapılan yorumları sınıflandırmaktadır.
