@@ -1,6 +1,5 @@
 # TRsemanticAnalysisTKNFST
-
-![TorosDilİşleme](https://github.com/user-attachments/assets/e6d9c0dc-3284-4ca6-96f4-a023baf7d6d3)
+![turkcedil2_KQLmW](https://github.com/user-attachments/assets/24b4fecf-0e68-4822-9a1b-33c9945df961)
 
 Bu projede hazır bir LLM destekli sisteme yaklaşık 15 bin yorum içeren etiketli veri seti ile eğitilmiş bir uygulama tasarlanmıştır. Uygulama yapılan yorumları sınıflandırmaktadır.
 Bunu yaparken Türkçe olmayan kelimeleri tespit edip bunları Türkçesi ile değiştirmekte, belirli uzunluktan fazla olan yorumları özetlemekte, anlamsız/fake yorumları tespit edebilmekte ve Anlam karmaşası olan yorumlara karşı en başarılı sınıflandırmayı yapmayı hedeflemektedir.
