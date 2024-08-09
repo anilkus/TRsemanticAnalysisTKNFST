@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from transformers import pipeline, AutoTokenizer, AutoModelForTokenClassification
 import nltk
 
-nltk.download('punkt')
+#nltk.download('punkt')
 
 app = FastAPI()
 
