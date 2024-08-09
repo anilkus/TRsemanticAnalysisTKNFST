@@ -6,3 +6,5 @@ Bunu yaparken Türkçe olmayan kelimeleri tespit edip bunları Türkçesi ile de
 
 Türkçenin yapısal olarak zor bir olarak görülmesi, LLM'lerin çoğunun Avrupa dillerinde daha başarılı olması bu çalışmanın önemini artırmaktadır.
 Ayrıca Türkçe dilinin korunması bakımından, Türkçe içerisinde sıklıkla kullanılan yabancı kelimelerede değinmekte bunları Türkçe kullanmaya teşvik etmektedir.
+
+Sunulan Projenin kodları uygulama.py'de içerisindedir.
